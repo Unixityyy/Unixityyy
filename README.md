@@ -1,16 +1,17 @@
-## Hi there 👋
+## hello
 
-<!--
-**Unixityyy/Unixityyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- pronouns: he/him
+- fun fact: we breathe air
+- how to reach me: @unixityyy on discord
 
-Here are some ideas to get you started:
+### about me
+---
+i make stuff in unity and typescript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### what i use
+---
+[![My Skills](https://skillicons.dev/icons?i=js,ts,androidstudio,cs,discordjs,dotnet,express,nodejs,py,robloxstudio,ubuntu,unity,vscode,windows)](https://skillicons.dev)
+
+> [!NOTE]
+> ##### (yes i have ubuntu and windows dualbooted)
+> ##### (i daily drive ubuntu tho)
