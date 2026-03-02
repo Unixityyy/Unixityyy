@@ -15,3 +15,9 @@ i make stuff in unity and typescript
 > [!NOTE]
 > ##### (yes i have ubuntu and windows dualbooted)
 > ##### (i daily drive ubuntu tho)
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unixityyy&theme=dark&hide_border=true" />
+</p>
+
+## the stats above are pathetic, i know
