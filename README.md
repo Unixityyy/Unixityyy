@@ -21,3 +21,5 @@ i make stuff in unity and typescript
 </p>
 
 ## the stats above are pathetic, i know
+
+[![discord](https://lanyard.cnrad.dev/api/877028399460282368?theme=dark&bg=0d1117&borderRadius=10px)](https://discord.com/users/877028399460282368)
