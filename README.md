@@ -10,15 +10,17 @@ i make stuff in unity and typescript
 
 ### what i use
 ---
-[![My Skills](https://skillicons.dev/icons?i=js,ts,androidstudio,cs,discordjs,dotnet,express,nodejs,py,robloxstudio,ubuntu,unity,vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,androidstudio,cs,discordjs,dotnet,express,nodejs,py,robloxstudio,arch,unity,vscode,windows)](https://skillicons.dev)
 
 > [!NOTE]
-> ##### (yes i have ubuntu and windows dualbooted)
-> ##### (i daily drive ubuntu tho)
+> ##### (yes i have arch and windows dualbooted)
+> ##### (i daily drive arch tho)
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unixityyy&theme=dark&hide_border=true" />
 </p>
+
+![snake svg thingy](https://github.com/Unixityyy/Unixityyy/raw/refs/heads/main/gh.svg)
 
 ## the stats above are pathetic, i know
 
